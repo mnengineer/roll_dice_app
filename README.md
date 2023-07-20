@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="RollDice.gif" width="180" />
+<img src="RollDice.gif" width="270" />
 
 ## Getting Started
 
