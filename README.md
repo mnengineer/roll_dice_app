@@ -1,7 +1,5 @@
 # roll_dice_app
 
-A new Flutter project.
-
 <img src="RollDice.gif" width="270" />
 
 ## Getting Started
