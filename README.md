@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![](RollDice.gif)
+<img src="RollDice.gif" width="270dp" />
 
 ## Getting Started
 
