@@ -1,10 +1,15 @@
 # Roll Dice App
 
-A thorough introduction to Flutter, Dart, and the concept behind widgets
+Flutter & DartFundamentals
 
-An overview of the built-in widgets and how to add your own
+Basic Syntax & Features
+- Explore Core Flutter & Dart Syntax
+- Understanding & Writing Flutter and Dart Code
+- Working with Flutter Widgets
 
 Section2 : [Flutter & Dart - The Complete Guide：2023 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
 ## Demo
 <img src="RollDice.gif" width="270" />
+
+
